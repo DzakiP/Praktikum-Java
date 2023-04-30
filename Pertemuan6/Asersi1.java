@@ -1,7 +1,7 @@
 /*
 	Nama  File	: Asersi1.java
 	Pembuat		: Muhammad Dzaki Prasetyo
-	NIM			: 24060121140127
+	NIM		: 24060121140127
 	Tanggal		: Kamis, 27 April 2023
 	Deskripsi	: Program untuk menunjukkan asersi
 */
