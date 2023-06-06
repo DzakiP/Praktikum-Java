@@ -1,0 +1,9 @@
+Nama  File	: penjelasan.txt
+Pembuat		  : Muhammad Dzaki Prasetyo
+NIM			    : 24060121140127
+Tanggal		  : Rabu, 31 Mei 2023
+Deskripsi	  : Penjelasan mengenai perubahan karakter T menjadi T2 pada BangunDatarGeneric.java
+
+Mengganti T menjadi karakter lain (di sini saya menggantinya menjadi T2)
+dapat memudahkan kita untuk membedakannya ketika menggunakan parameter generik
+yang lebih dari 1 di dalam kelas tersebut.
